@@ -16,4 +16,4 @@ DB_PASS
 
 These can be set when docker is run.
 
-$ docker run -p :80 -e DB_HOST=db1 -e DB_NAME=mydb -e DB_USER=myuser -e DB_PASS=mypass mmilano/nginx
+$ docker run -e DB_HOST=db1 -e DB_NAME=mydb -e DB_USER=myuser -e DB_PASS=mypass mmilano/nginx
