@@ -1,3 +1,6 @@
+# Based on Michael Crosby's minecraft image
+# but with the latest minecraft as of 10/29/2013
+
 FROM ubuntu
 
 RUN echo "deb http://archive.ubuntu.com/ubuntu precise main universe" > /etc/apt/sources.list
