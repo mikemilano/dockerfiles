@@ -1,6 +1,5 @@
-# Minecraft Server
-# Based on Michael Crosby's minecraft image
-# but with the latest minecraft as of 10/29/2013
+# Minecraft Server 1.7.2
+# Based on Michael Crosby's minecraft Dockerfile.
 
 FROM ubuntu
 

@@ -1,4 +1,4 @@
-Minecraft Server
+Minecraft Server 1.7.2
 ===========
 
 This file is based on Michael Crosby's mincraft version
