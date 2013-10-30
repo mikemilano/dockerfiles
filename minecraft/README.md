@@ -1,4 +1,4 @@
-Minecraft
+Minecraft Server
 ===========
 
 This file is based on Michael Crosby's mincraft version
